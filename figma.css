@@ -58,3 +58,6 @@ body{overflow-x:clip}.footer{position:relative;margin-inline:calc(20 * var(--u))
   .copyright { top: calc(758 * var(--fy)); }
   .event-row { background: transparent; }
 }
+
+.partner-logo.partner-7 { border-radius: 0; opacity: 1; }
+.partner-logo.partner-7 img { left: 0; top: 0; width: 100%; height: auto; }
